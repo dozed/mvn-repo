@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.hp.hpl.jena</groupId>
+  <artifactId>arq</artifactId>
+  <version>2.8.9-JENA_44-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20130916135028</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.8.9-JENA_44-SNAPSHOT</value>
+        <updated>20130916135028</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.8.9-JENA_44-SNAPSHOT</value>
+        <updated>20130916135028</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

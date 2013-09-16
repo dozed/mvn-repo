@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.hp.hpl.jena</groupId>
+  <artifactId>tdb</artifactId>
+  <versioning>
+    <versions>
+      <version>0.8.11-JENA_44-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130916135025</lastUpdated>
+  </versioning>
+</metadata>
