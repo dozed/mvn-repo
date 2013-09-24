@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fr.inrialpes.exmo</groupId>
+  <artifactId>ontosim</artifactId>
+  <versioning>
+    <versions>
+      <version>5.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130924130645</lastUpdated>
+  </versioning>
+</metadata>
