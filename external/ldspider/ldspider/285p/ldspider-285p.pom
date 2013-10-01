@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ldspider</groupId>
   <artifactId>ldspider</artifactId>
-  <version>285+</version>
+  <version>285p</version>
   <description>POM was created from install:install-file</description>
 </project>
